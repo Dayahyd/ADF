@@ -8,7 +8,7 @@ Datasets: These represent the specific data structures (like a specific folder, 
 Integration Runtime (IR): The compute infrastructure used to provide data integration capabilities across different network environments. 
 YouTube
 YouTube
- +4
+
 2. Steps to Create a Pipeline
 The most common starting point is a Copy Activity pipeline: 
 Launch ADF Studio: In the Azure Portal, navigate to your Data Factory resource and select Launch Studio.
