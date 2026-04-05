@@ -30,3 +30,8 @@ Microsoft Learn
 Advanced Methods
 CI/CD: Deploy pipelines across environments (Dev, QA, Prod) using Azure DevOps.
 Infrastructure as Code: Use Terraform or Python SDK to programmatically create and manage ADF resources
+
+
+
+
+https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp
