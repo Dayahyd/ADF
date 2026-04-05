@@ -26,7 +26,7 @@ Debug: Select Debug to run the pipeline immediately and verify the data movement
 Publish: Click Publish All to save your changes to the ADF service so they can be triggered. 
 Microsoft Learn
 Microsoft Learn
- +2
+   
 4. Execution and Monitoring
 Triggers: Use the Add Trigger menu to run the pipeline Now or on a Schedule (e.g., daily at a specific time).
 Monitoring: View the Monitor (gauge icon) tab to track the status, duration, and success/failure of all pipeline runs.
