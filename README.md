@@ -19,7 +19,7 @@ Configure Sink: In the Sink tab, select the dataset representing your destinatio
 Mapping: Use the Mapping tab to align source columns with destination columns, or click Import schemas to do this automatically. 
 Microsoft Learn
 Microsoft Learn
- +6
+   
 3. Validation and Deployment
 Validate: Click Validate on the toolbar to check for configuration errors or missing settings.
 Debug: Select Debug to run the pipeline immediately and verify the data movement in the output window.
