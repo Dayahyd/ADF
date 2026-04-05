@@ -34,4 +34,4 @@ Infrastructure as Code: Use Terraform or Python SDK to programmatically create a
 
 
 
-https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp
+![Uploading image.png…](https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp)
