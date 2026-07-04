@@ -36,4 +36,4 @@ Monitoring: View the Monitor (gauge icon) tab to track the status, duration, and
 
 
 
-![Uploading image.png…](https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp)
+!(https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp)
