@@ -10,6 +10,7 @@ Integration Runtime (IR): The compute infrastructure used to provide data integr
 YouTube
 YouTube
 
+
 2. Steps to Create a Pipeline
 The most common starting point is a Copy Activity pipeline: 
 Launch ADF Studio: In the Azure Portal, navigate to your Data Factory resource and select Launch Studio.
@@ -20,6 +21,7 @@ Configure Sink: In the Sink tab, select the dataset representing your destinatio
 Mapping: Use the Mapping tab to align source columns with destination columns, or click Import schemas to do this automatically. 
 Microsoft Learn
 Microsoft Learn
+
    
 3. Validation and Deployment
 Validate: Click Validate on the toolbar to check for configuration errors or missing settings.
@@ -27,10 +29,12 @@ Debug: Select Debug to run the pipeline immediately and verify the data movement
 Publish: Click Publish All to save your changes to the ADF service so they can be triggered. 
 Microsoft Learn
 Microsoft Learn
+
    
 4. Execution and Monitoring
 Triggers: Use the Add Trigger menu to run the pipeline Now or on a Schedule (e.g., daily at a specific time).
 Monitoring: View the Monitor (gauge icon) tab to track the status, duration, and success/failure of all pipeline runs.
+
 
 
 
