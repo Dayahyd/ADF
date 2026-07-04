@@ -33,7 +33,5 @@ Triggers: Use the Add Trigger menu to run the pipeline Now or on a Schedule (e.g
 Monitoring: View the Monitor (gauge icon) tab to track the status, duration, and success/failure of all pipeline runs.
 
 
+<img width="2218" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c4b0575-9259-40be-a8df-1d38cb5bca0c" />
 
-
-
-!(https://alltechmagazine.com/storage/2023/08/Azure-Data-Factory.webp)
