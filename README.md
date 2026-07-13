@@ -10,7 +10,6 @@ Integration Runtime (IR): The compute infrastructure used to provide data integr
 YouTube
 YouTube
 
-
 2. Steps to Create a Pipeline
 The most common starting point is a Copy Activity pipeline: 
 Launch ADF Studio: In the Azure Portal, navigate to your Data Factory resource and select Launch Studio.
