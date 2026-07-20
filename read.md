@@ -1,4 +1,3 @@
-
 Creating a pipeline in Azure Data Factory (ADF) involves orchestrating activities to move or transform data between a source and a destination (sink).
 
 Core Components to Configure Before building the pipeline, you must establish the "plumbing" of your data environment: Linked Services: These are the connection strings that link ADF to your data stores (e.g., Azure Blob Storage, SQL Database). Datasets: These represent the specific data structures (like a specific folder, CSV file, or SQL table) within your Linked Services. Integration Runtime (IR): The compute infrastructure used to provide data integration capabilities across different network environments. YouTube YouTube
