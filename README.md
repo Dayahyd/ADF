@@ -1,4 +1,5 @@
 
+
 ### ADF pipeline creation  ###
 
 Creating a pipeline in Azure Data Factory (ADF) involves orchestrating activities to move or transform data between a source and a destination (sink). 
